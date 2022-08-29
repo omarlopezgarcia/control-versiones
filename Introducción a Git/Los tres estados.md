@@ -14,4 +14,4 @@ Git tiene tres estados principales en los que se pueden encontrar tus archivos:
 
       Preparado significa que has marcado un archivo modificado en su versión actual para que vaya en tu próxima confirmación.
 
-![los tres estados]()
+![los tres estados](https://github.com/omarlopezgarcia/control-versiones/blob/main/src/los%203%20estados.PNG)
