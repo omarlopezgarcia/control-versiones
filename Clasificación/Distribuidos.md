@@ -1,7 +1,7 @@
 # Distribuidos
 Cada usuario tiene su propio repositorio. Los distintos repositorios pueden intercambiar y mezclar revisiones entre ellos. Es frecuente el uso de un repositorio, que está normalmente disponible, que sirve de punto de sincronización de los distintos repositorios locales. Ejemplos: Git y Mercurial.
 
-![distribuidos]()
+![distribuidos](https://github.com/omarlopezgarcia/control-versiones/blob/main/src/distribuidos1.PNG)
 
 # Ventajas de sistemas distribuidos
 
